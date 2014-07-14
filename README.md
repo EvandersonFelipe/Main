@@ -1,4 +1,13 @@
 Main
 ====
 
-Este código foi produzido a partir de uma aula "usando o git hubi".
+Public class Main{
+ 
+  Public static void main(String[], args){
+        int a=1;
+        
+        while(true){
+            a+=1;    
+        }
+  }
+}
